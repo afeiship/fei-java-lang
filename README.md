@@ -1,2 +1,2 @@
-# fei-java-lang
+# java-notes
 > Java lang notes.
